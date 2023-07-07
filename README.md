@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timobaumann/world-demo/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/timobaumann/world-demo/main?filepath=/demo.ipynb)
 
 # world-demo
 
